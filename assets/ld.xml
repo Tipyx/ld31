@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:37671ddf6ce6ef38aa06721a43e03ae7:e7e404228248e6aa02fd6634c8e34e86:c90a82858dc7f0dd44665ae877ffe881$ -->
+<TextureAtlas imagePath="ld.png">
+    <SubTexture name="button" x="166" y="80" width="32" height="32"/>
+    <SubTexture name="buttonNight" x="166" y="114" width="32" height="32"/>
+    <SubTexture name="classicWall" x="230" y="2" width="32" height="42"/>
+    <SubTexture name="classicWallNight" x="264" y="2" width="32" height="42"/>
+    <SubTexture name="exit" x="132" y="124" width="32" height="32"/>
+    <SubTexture name="exitNight" x="2" y="132" width="32" height="32"/>
+    <SubTexture name="floor" x="36" y="132" width="32" height="32"/>
+    <SubTexture name="floorParquet" x="70" y="132" width="32" height="32"/>
+    <SubTexture name="floorParquetNight" x="2" y="166" width="32" height="32"/>
+    <SubTexture name="foe" x="70" y="234" width="31" height="42" frameX="0" frameY="0" frameWidth="32" frameHeight="42"/>
+    <SubTexture name="fxLight" x="2" y="2" width="128" height="128"/>
+    <SubTexture name="game0" x="36" y="166" width="32" height="32"/>
+    <SubTexture name="game1" x="70" y="166" width="32" height="32"/>
+    <SubTexture name="game2" x="264" y="46" width="32" height="32"/>
+    <SubTexture name="game3" x="298" y="46" width="32" height="32"/>
+    <SubTexture name="game4" x="332" y="46" width="32" height="32"/>
+    <SubTexture name="game5" x="366" y="46" width="32" height="32"/>
+    <SubTexture name="gameNight0" x="400" y="46" width="32" height="32"/>
+    <SubTexture name="gameNight1" x="434" y="46" width="32" height="32"/>
+    <SubTexture name="gameNight2" x="468" y="46" width="32" height="32"/>
+    <SubTexture name="gameNight3" x="264" y="80" width="32" height="32"/>
+    <SubTexture name="gameNight4" x="229" y="90" width="32" height="32"/>
+    <SubTexture name="gameNight5" x="298" y="80" width="32" height="32"/>
+    <SubTexture name="hero2" x="200" y="80" width="27" height="42" frameX="-3" frameY="0" frameWidth="32" frameHeight="42"/>
+    <SubTexture name="heroIdle" x="104" y="132" width="26" height="39" frameX="-5" frameY="-3" frameWidth="32" frameHeight="42"/>
+    <SubTexture name="heroIdleB" x="2" y="268" width="22" height="39" frameX="-9" frameY="-3" frameWidth="32" frameHeight="42"/>
+    <SubTexture name="heroMove0" x="104" y="173" width="26" height="39" frameX="-5" frameY="-3" frameWidth="32" frameHeight="42"/>
+    <SubTexture name="heroMove1" x="104" y="132" width="26" height="39" frameX="-5" frameY="-3" frameWidth="32" frameHeight="42"/>
+    <SubTexture name="heroMove2" x="234" y="124" width="26" height="39" frameX="-5" frameY="-3" frameWidth="32" frameHeight="42"/>
+    <SubTexture name="heroMove3" x="104" y="132" width="26" height="39" frameX="-5" frameY="-3" frameWidth="32" frameHeight="42"/>
+    <SubTexture name="heroMoveB0" x="2" y="268" width="22" height="39" frameX="-9" frameY="-3" frameWidth="32" frameHeight="42"/>
+    <SubTexture name="heroMoveB1" x="104" y="214" width="25" height="39" frameX="-6" frameY="-3" frameWidth="32" frameHeight="42"/>
+    <SubTexture name="library" x="298" y="2" width="32" height="42"/>
+    <SubTexture name="libraryNight" x="332" y="2" width="32" height="42"/>
+    <SubTexture name="serverOff" x="366" y="2" width="32" height="42"/>
+    <SubTexture name="serverOffNight" x="400" y="2" width="32" height="42"/>
+    <SubTexture name="serverOn" x="434" y="2" width="32" height="42"/>
+    <SubTexture name="serverOnNight" x="468" y="2" width="32" height="42"/>
+    <SubTexture name="torch" x="132" y="2" width="96" height="76"/>
+    <SubTexture name="treadmill0" x="332" y="80" width="32" height="32"/>
+    <SubTexture name="treadmill1" x="366" y="80" width="32" height="32"/>
+    <SubTexture name="treadmill2" x="400" y="80" width="32" height="32"/>
+    <SubTexture name="treadmill3" x="434" y="80" width="32" height="32"/>
+    <SubTexture name="treadmill4" x="468" y="80" width="32" height="32"/>
+    <SubTexture name="treadmill5" x="263" y="114" width="32" height="32"/>
+    <SubTexture name="treadmill6" x="200" y="124" width="32" height="32"/>
+    <SubTexture name="treadmill7" x="166" y="148" width="32" height="32"/>
+    <SubTexture name="treadmillNight0" x="132" y="158" width="32" height="32"/>
+    <SubTexture name="treadmillNight1" x="200" y="158" width="32" height="32"/>
+    <SubTexture name="treadmillNight2" x="166" y="182" width="32" height="32"/>
+    <SubTexture name="treadmillNight3" x="132" y="192" width="32" height="32"/>
+    <SubTexture name="treadmillNight4" x="2" y="200" width="32" height="32"/>
+    <SubTexture name="treadmillNight5" x="36" y="200" width="32" height="32"/>
+    <SubTexture name="treadmillNight6" x="70" y="200" width="32" height="32"/>
+    <SubTexture name="treadmillNight7" x="2" y="234" width="32" height="32"/>
+    <SubTexture name="vestiaire" x="230" y="46" width="32" height="42"/>
+    <SubTexture name="vestiaireNight" x="132" y="80" width="32" height="42"/>
+    <SubTexture name="wall" x="36" y="234" width="32" height="32"/>
+    <SubTexture name="zone1" x="14" y="334" width="10" height="5"/>
+    <SubTexture name="zone10" x="2" y="334" width="10" height="8"/>
+    <SubTexture name="zone11" x="502" y="15" width="8" height="5"/>
+    <SubTexture name="zone2" x="502" y="2" width="8" height="11"/>
+    <SubTexture name="zone3" x="2" y="323" width="11" height="9"/>
+    <SubTexture name="zone4" x="2" y="309" width="15" height="12"/>
+    <SubTexture name="zone5" x="26" y="268" width="18" height="14"/>
+    <SubTexture name="zone6" x="2" y="344" width="13" height="6"/>
+    <SubTexture name="zone7" x="26" y="284" width="16" height="13"/>
+    <SubTexture name="zone8" x="46" y="276" width="16" height="19"/>
+    <SubTexture name="zone9" x="46" y="268" width="18" height="6"/>
+</TextureAtlas>

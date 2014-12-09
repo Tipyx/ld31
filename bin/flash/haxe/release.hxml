@@ -1,0 +1,14 @@
+-main ApplicationMain 
+-lib openfl
+-lib actuate
+-lib h3d
+-cp src
+-D standalone
+-D tools=1.4.0
+-D advanced-telemetry
+-D web
+-swf-version 11.6
+-swf bin/flash/bin/ld30.swf
+-swf-header 1280:960:60:000000
+-cp bin/flash/haxe
+#--remap nme:flash
